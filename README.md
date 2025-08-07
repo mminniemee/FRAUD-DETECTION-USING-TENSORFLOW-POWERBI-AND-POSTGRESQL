@@ -1,5 +1,8 @@
 # FRAUD-DETECTION-USING-TENSORFLOW-POWERBI-AND-POSTGRESQL
-This project combines data engineering, machine learning, and business intelligence dashboards to simulate how banks can proactively monitor and flag suspicious activity.A Financial Fraud Detection System that detects suspicious transactions using a **Feedforward Neural Network**
+This project combines data engineering, machine learning, and business intelligence dashboards to simulate how banks can proactively monitor and flag suspicious activity.A Financial Fraud Detection System that detects suspicious transactions using a **Feedforward Neural Network**. 
+
+load_into_database.py is used to load the csv file in postgresql.
+In the branch "notebooks" there are jupyter notebooks used for analysis, cleaning and deep learning.
 
 ## 🚀 Features
 
