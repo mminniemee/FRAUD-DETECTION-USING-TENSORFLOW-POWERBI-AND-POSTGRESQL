@@ -4,11 +4,11 @@ This project combines data engineering, machine learning, and business intellige
 load_into_database.py is used to load the csv file in postgresql.
 In the branch "notebooks" there are jupyter notebooks used for analysis, cleaning and deep learning.
 
-## 🚀 Features
+##  Features
 
-- 🧠 **Feedforward Neural Network** (TensorFlow/Keras) trained on the [PaySim Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)
-- 🗃️ **PostgreSQL** database to store transactions and fraud prediction results
-- 📊 **Power BI Dashboard** for data visualizations:
+-  **Feedforward Neural Network** (TensorFlow/Keras) trained on the [PaySim Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)
+-  **PostgreSQL** database to store transactions and fraud prediction results
+-  **Power BI Dashboard** for data visualizations:
   - Total number of frauds
   - Percentage of frauds
   - Gauge for probability score
@@ -23,7 +23,7 @@ In the branch "notebooks" there are jupyter notebooks used for analysis, cleanin
 | Visualizations   | Power BI                         |
 | IDE & Tools      | VS Code, Jupyter Notebook        |
 
-## 🧠 Model Info
+##  Model Info
 
 - **Architecture**: Feedforward Neural Network (Dense layers)
 - **Input Features**: Transaction amount, oldbalanceOrg, newbalanceOrig, transaction type (encoded), etc.
